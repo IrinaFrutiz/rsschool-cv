@@ -1,3 +1,2 @@
 # rsschool-cv
-
-https://github.com/IrinaFrutiz/rsschool-cv/blob/gh-pages/cv.md
+https://IrinaFrutiz.github.io/rsschool-cv/
